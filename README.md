@@ -1,2 +1,2 @@
-# BattleShip_Python
+# battleship
 A BattleShip game written in python
